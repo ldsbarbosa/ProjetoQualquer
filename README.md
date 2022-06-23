@@ -8,3 +8,4 @@ em Portugal nos anos 1990 também escrito como leia-me.txt ou, sem o hífen, lei
 (Readme - Wikipédia, a enciclopédia livre // https://pt.wikipedia.org/wiki/Readme)
 
 Alteração qualquer
+Alterando mais uma vez
