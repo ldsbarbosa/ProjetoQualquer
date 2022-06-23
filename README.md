@@ -9,3 +9,4 @@ em Portugal nos anos 1990 também escrito como leia-me.txt ou, sem o hífen, lei
 
 Alteração qualquer
 Alterando mais uma vez
+Alterando pela terceira vez, só que via site do GitHub
