@@ -1,0 +1,1 @@
+Outro arquivo txt que escrevi via Git para testar o config
